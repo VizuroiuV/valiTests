@@ -6,8 +6,6 @@ public class IntegerExamplesTest {
     @Test
     public void integerExploration(){
         Integer four = new Integer(4);
-
-
     }
 
 }
